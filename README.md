@@ -1,0 +1,2 @@
+# EDUMAAT
+Spring MVC application
